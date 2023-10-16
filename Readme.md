@@ -6,6 +6,7 @@
 # How to: Implement a Security System User Based on an Existing Business Class 
 
 This example shows how to use an existing business class as the Security System user.
+![image](https://github.com/DevExpress-Examples/XAF_how-to-implement-a-security-system-user-based-on-an-existing-business-class-e4160/assets/14300209/46433609-9e07-4d75-bd99-823eff5300e6)
 
 
 
